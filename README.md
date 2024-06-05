@@ -1,4 +1,3 @@
-# Credit-card-transaction-class-classification
 
 # Credit Card Transaction Classification
 
